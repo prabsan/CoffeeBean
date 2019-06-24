@@ -6,7 +6,7 @@ namespace CoffeeBean
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Coffee Bean World!");
+            Console.WriteLine("Coffee Bean World - Step 2!");
         }
     }
 }
