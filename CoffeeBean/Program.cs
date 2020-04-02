@@ -7,6 +7,7 @@ namespace CoffeeBean
         static void Main(string[] args)
         {
             Console.WriteLine("Coffee Bean World - Step 2!");
+	    Console.WriteLine("Sanma cloned it - Step 3!");
         }
     }
 }
